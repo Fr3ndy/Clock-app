@@ -8,6 +8,6 @@ v1.0.0 70%
 
 -Programming languages:Html-JavaScript-Css
 
-# <ins>created fo a school project 2022</ins>
+# <ins>Created for a school project 2022</ins>
 
 
